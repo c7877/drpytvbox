@@ -19,3 +19,7 @@ App default settings can be set here :
 //        putDefault(HawkConfig.SEARCH_VIEW, 1);    // Text or Picture
 
     }
+
+# 问题反馈
+
+[在线提交反馈信息](https://support.qq.com/product/513601)
