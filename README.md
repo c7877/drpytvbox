@@ -19,6 +19,25 @@ App default settings can be set here :
 //        putDefault(HawkConfig.SEARCH_VIEW, 1);    // Text or Picture
 
     }
+# git操作
+1、问题描述：
+本地提交文件到git,提交了不应该的或者不需要的文件或者目录
+
+2、出现场景
+例如pycharm工程提交时未将.idea添加至.ignore，错误将.idea文件夹提交到了git,或者安卓项目把build目录提交到了git
+
+3、解决措施
+通过git命令清除，步骤如下：
+打开idea系列产品的terminal
+
+3.1 $ ls # 查看有哪些文件夹 
+3.2 $ cd # 切换到目标目录 
+
+3.4 $ git rm -r --cached build # 删除build文件夹（删除的是缓存中的build）
+
+3.5 $ git commit -m '删除编译目录' # 提交,添加操作说明（将缓存中的变动提交到本地仓库.idea）
+
+3.6 $ git push -u origin master # 将本次更改更新到github项目上去（将本地仓库的变动同步到远程仓库）
 
 # 问题反馈
 
