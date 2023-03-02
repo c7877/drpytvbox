@@ -1,2 +1,0 @@
-com/github/tvbox/osc/test/BuildConfig.java
- com.github.tvbox.osc.test.BuildConfig
