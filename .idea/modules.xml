@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/drpybox.iml" filepath="$PROJECT_DIR$/.idea/modules/drpybox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/drpybox.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/drpybox.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/drpybox.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/drpybox.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/drpybox.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/drpybox.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/drpybox.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/drpybox.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jieba_android/drpybox.jieba_android.iml" filepath="$PROJECT_DIR$/.idea/modules/jieba_android/drpybox.jieba_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jieba_android/drpybox.jieba_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/jieba_android/drpybox.jieba_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jieba_android/drpybox.jieba_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jieba_android/drpybox.jieba_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jieba_android/drpybox.jieba_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/jieba_android/drpybox.jieba_android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pyramid/drpybox.pyramid.iml" filepath="$PROJECT_DIR$/.idea/modules/pyramid/drpybox.pyramid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pyramid/drpybox.pyramid.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pyramid/drpybox.pyramid.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pyramid/drpybox.pyramid.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pyramid/drpybox.pyramid.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pyramid/drpybox.pyramid.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pyramid/drpybox.pyramid.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.getActivity:XXPermissions:13.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/094fa0269c3dc67d507fbbd3f23791e6/jetified-XXPermissions-13.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/094fa0269c3dc67d507fbbd3f23791e6/jetified-XXPermissions-13.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.getActivity/XXPermissions/13.6/a2ec784abfdd4beb7d601ea750672e3163b13bf1/XXPermissions-13.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

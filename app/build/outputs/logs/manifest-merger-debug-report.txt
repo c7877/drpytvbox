@@ -1,0 +1,607 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:108:9-116:20
+	android:grantUriPermissions
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:112:13-47
+	android:authorities
+		INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:110:13-64
+	android:exported
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:111:13-37
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:109:13-62
+manifest
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:2:1-133:12
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:2:1-133:12
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:2:1-133:12
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:2:1-133:12
+MERGED from [androidx.databinding:databinding-adapters:4.2.2] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e059bf85ae66f971ea98ab7bd0fadb14\databinding-adapters-4.2.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:4.2.2] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\434b6b90b343ac7f25b834c3fa588ab8\databinding-runtime-4.2.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\80d6913b98696ed806710f398b7030d6\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.thegrizzlylabs:sardine-android:0.5] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5fbee320cd8c7181da19e2470b487ceb\jetified-sardine-android-0.5\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d0a8dc46b3cfd68bdf724259d84b99e8\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.kingja.loadsir:loadsir:1.3.8] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\281f86556b7a08344edd864cac0928d9\jetified-loadsir-1.3.8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\3c289c4feed255a38ba34624249d1bf3\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e55c63b66e0d0950e514e96e1cb9fbcb\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\af00afab4460804a94749d445c5e3375\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.owen:tv-recyclerview:3.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c20269ee5a4f78911fed0601e525a2d2\jetified-tv-recyclerview-3.0.0\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e7ce37e8be424eead96edfcc2bcc2422\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.alibaba.android:vlayout:1.2.37] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1ab0408195b83d83d74b102128562385\jetified-vlayout-1.2.37\AndroidManifest.xml:25:1-35:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\2d2adde94e2b6fb142db6c786a9b3188\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:jieba_android] F:\androidwork\tvbox\drpybox\jieba_android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5f053a25710d769ba6e2ae5c2f709070\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1075920d7c53e5aaf65a01d9154bb791\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4592c34b05a4b504d59071433a0c4116\jetified-okgo-3.0.4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.45-androidx] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\8f61e6fb3a6730b2569f9760330fea34\jetified-BaseRecyclerViewAdapterHelper-2.9.45-androidx\AndroidManifest.xml:2:1-11:12
+MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\250fe7bd6180ed56888d2b54bc4eeb4e\jetified-hawk-2.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [me.jessyan:autosize:1.2.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f367710926cd8cbaddf9de9c15426e56\jetified-autosize-1.2.1\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\3c2faf50c7f30b029776288813994631\jetified-exoplayer-dash-2.16.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\efe2ccfd5caf19e577b2c58a577b33be\jetified-exoplayer-hls-2.16.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\72f29d42dd8930456c464b5931bcaa4c\jetified-exoplayer-rtsp-2.16.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f1eb9ebaecddea7e633188673f33f2d8\jetified-exoplayer-core-2.16.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d8324f791fc5a313abb010f40888c1e7\jetified-extension-rtmp-2.16.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d42f73bf74fdb2b85d20eaa5f5db84ed\jetified-viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.getActivity:XXPermissions:13.6] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\094fa0269c3dc67d507fbbd3f23791e6\jetified-XXPermissions-13.6\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\715557cd8cb6113c931b79e7e48322b2\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\076f7fe7972bee1c80e5553b4534b609\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\117fb37b347a5fcfa9affb44529a8bfa\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\74ced276f2bf6b9a22d9f2dbf0d57f98\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d54c3f7008a81c33daeda1756933644a\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\04065bff3e9558946c8e051bf44f2c3b\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\82e453dfc915ed9cc9469d988999ccf8\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\7617780e5b04c2966432bc4df5abb64f\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\42473f6cdf8267137d4b790ce39bb35c\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\46dbb4d8a07d49327e88e8898de15733\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\a2803ec59c039dd9e62c6f25c2394b7b\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\25e32adb7dc047f0c4813284aa24ed59\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ef89da131e88d7a9b5b72a350e241e4b\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\a1a15dccaddb9a58fa02966cf498683c\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\3b06625dcaa18a9c161f917bf531f304\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\24a0abc4bf2d1f8cad0b2f16489f0acd\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e8e1b724d4e0b0243fa5b5ae782522f0\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b0cb78a80c409c5e4d34fcb1ee055036\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b271de6c47d5bdddf038de2d19f7b229\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c802b6fc861cd529489fd177b52c8ab6\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\60b04dd3d10825eb7a9d8579475f320d\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c69f1f806681c3e287f5f59dc6eaf646\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ffa49728b8d12b536247f91aa1b406aa\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\06644438a253a9cc6a5bc52cc46f56c1\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\7d4778a4a5227f57a8cb6ac9e616dd7b\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b451a7ca1025d72b1e0d1a7804ef290d\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\6c75477f1115cd6d63a24b11d5ad4b78\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ead26ca8a3f479c25c33822349135643\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4ac94067c32b5741fcd0bc1be02adb9d\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\62a74d554089b691e7beb67bb3b37a2b\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\7c4a4043b45ec471686a108c9f3d75d2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\658fad122711c6b85d8b80b0e4a4138c\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\faed489e262b4646a0aa258633e7a9d8\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b8051f78c7385452b7ab3f51d218a617\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\069eb5a361b18e1773fbf1f9d4663425\jetified-exoplayer-datasource-2.16.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\137b31d3e949aba47b3077d20903f7f1\jetified-exoplayer-extractor-2.16.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c136bfb3ceca5c6638a44225596e8da2\jetified-exoplayer-decoder-2.16.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e58002c4d2065d671600683921adb3ee\jetified-exoplayer-database-2.16.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\12995ad70246e14ae228b4390f38b6e1\jetified-exoplayer-common-2.16.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c3ecd4cc36a34c872cb2b3e23e7e08ca\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f62077f382cf98f32fe75c7f9a5ab0ba\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f3e53978ee6e7daef8d233ad93167ca7\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\da98fd940fef9b1bfe4fbb87426ef3e6\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4394f9bccaf97aa8e3d53f704aee63b6\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\caa0f54e7ebb99e624f625b78c0b9c3e\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [xyz.doikki.android.dkplayer:dkplayer-ui:3.3.5] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\86857f462f86436c714097874997d2d9\jetified-dkplayer-ui-3.3.5\AndroidManifest.xml:2:1-9:12
+MERGED from [:pyramid] F:\androidwork\tvbox\drpybox\pyramid\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [org.xwalk:xwalk_shared_library:23.53.589.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\31167bab9e251b184d92ef9d7a4453fe\jetified-xwalk_shared_library-23.53.589.4\AndroidManifest.xml:1:1-9:12
+MERGED from [com.github.hedzr:android-file-chooser:v1.2.0-final] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ea96c1f9678a518226315f13e60f001c\jetified-android-file-chooser-v1.2.0-final\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\89b785480e630cf29d8bfa5d3c62d054\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\9dbeeea67c6acc483577b9a13bd92de9\jetified-conceal-1.1.3\AndroidManifest.xml:7:1-16:12
+MERGED from [io.antmedia:rtmp-client:3.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\a61fb3c9fc61f9ac742c758841b6deb7\jetified-rtmp-client-3.2.0\AndroidManifest.xml:2:1-11:12
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:2:1-133:12
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:2:1-133:12
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:2:1-133:12
+	package
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+		INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:2:1-133:12
+		INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:2:1-133:12
+		INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.touchscreen
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:6:5-8:36
+	android:required
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:8:9-33
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:7:9-52
+uses-feature#android.software.leanback
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:9:5-11:36
+	android:required
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:11:9-33
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:10:9-49
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f1eb9ebaecddea7e633188673f33f2d8\jetified-exoplayer-core-2.16.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f1eb9ebaecddea7e633188673f33f2d8\jetified-exoplayer-core-2.16.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\12995ad70246e14ae228b4390f38b6e1\jetified-exoplayer-common-2.16.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\12995ad70246e14ae228b4390f38b6e1\jetified-exoplayer-common-2.16.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4592c34b05a4b504d59071433a0c4116\jetified-okgo-3.0.4\AndroidManifest.xml:26:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4592c34b05a4b504d59071433a0c4116\jetified-okgo-3.0.4\AndroidManifest.xml:26:5-67
+MERGED from [io.antmedia:rtmp-client:3.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\a61fb3c9fc61f9ac742c758841b6deb7\jetified-rtmp-client-3.2.0\AndroidManifest.xml:9:5-67
+MERGED from [io.antmedia:rtmp-client:3.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\a61fb3c9fc61f9ac742c758841b6deb7\jetified-rtmp-client-3.2.0\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:18:5-19:43
+	tools:ignore
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:18:22-83
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:20:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4592c34b05a4b504d59071433a0c4116\jetified-okgo-3.0.4\AndroidManifest.xml:27:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4592c34b05a4b504d59071433a0c4116\jetified-okgo-3.0.4\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:20:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:21:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4592c34b05a4b504d59071433a0c4116\jetified-okgo-3.0.4\AndroidManifest.xml:28:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4592c34b05a4b504d59071433a0c4116\jetified-okgo-3.0.4\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:23:5-95
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:23:22-92
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:24:22-80
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:26:22-74
+application
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:28:5-131:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d0a8dc46b3cfd68bdf724259d84b99e8\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d0a8dc46b3cfd68bdf724259d84b99e8\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\3c289c4feed255a38ba34624249d1bf3\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\3c289c4feed255a38ba34624249d1bf3\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\af00afab4460804a94749d445c5e3375\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\af00afab4460804a94749d445c5e3375\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.owen:tv-recyclerview:3.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c20269ee5a4f78911fed0601e525a2d2\jetified-tv-recyclerview-3.0.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.owen:tv-recyclerview:3.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c20269ee5a4f78911fed0601e525a2d2\jetified-tv-recyclerview-3.0.0\AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5f053a25710d769ba6e2ae5c2f709070\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5f053a25710d769ba6e2ae5c2f709070\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1075920d7c53e5aaf65a01d9154bb791\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1075920d7c53e5aaf65a01d9154bb791\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [me.jessyan:autosize:1.2.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f367710926cd8cbaddf9de9c15426e56\jetified-autosize-1.2.1\AndroidManifest.xml:11:5-17:19
+MERGED from [me.jessyan:autosize:1.2.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f367710926cd8cbaddf9de9c15426e56\jetified-autosize-1.2.1\AndroidManifest.xml:11:5-17:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\74ced276f2bf6b9a22d9f2dbf0d57f98\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\74ced276f2bf6b9a22d9f2dbf0d57f98\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c69f1f806681c3e287f5f59dc6eaf646\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c69f1f806681c3e287f5f59dc6eaf646\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f62077f382cf98f32fe75c7f9a5ab0ba\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f62077f382cf98f32fe75c7f9a5ab0ba\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.hedzr:android-file-chooser:v1.2.0-final] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ea96c1f9678a518226315f13e60f001c\jetified-android-file-chooser-v1.2.0-final\AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.hedzr:android-file-chooser:v1.2.0-final] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ea96c1f9678a518226315f13e60f001c\jetified-android-file-chooser-v1.2.0-final\AndroidManifest.xml:11:5-16:19
+	android:extractNativeLibs
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:39:9-41
+	android:configChanges
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:31:9-70
+	android:largeHeap
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:36:9-33
+	android:icon
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:33:9-42
+	android:banner
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:34:9-46
+	android:networkSecurityConfig
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:37:9-69
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c69f1f806681c3e287f5f59dc6eaf646\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:38:9-35
+	android:label
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:35:9-41
+	android:hardwareAccelerated
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:32:9-43
+	tools:targetApi
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:42:9-28
+	android:allowBackup
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:40:9-52
+	android:usesCleartextTraffic
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:41:9-44
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:29:9-33
+activity#com.github.tvbox.osc.ui.activity.HomeActivity
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:44:9-53:20
+	android:screenOrientation
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:45:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:47:13-52:29
+action#android.intent.action.MAIN
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:50:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:51:17-86
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:51:27-83
+activity#com.github.tvbox.osc.ui.activity.LivePlayActivity
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:55:9-60:94
+	android:screenOrientation
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:58:13-56
+	android:supportsPictureInPicture
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:59:13-52
+	android:configChanges
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:60:13-91
+	android:theme
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:56:13-57
+activity#com.github.tvbox.osc.ui.activity.DetailActivity
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:61:9-66:94
+	android:screenOrientation
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:64:13-56
+	android:supportsPictureInPicture
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:65:13-52
+	android:configChanges
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:66:13-91
+	android:theme
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:63:13-54
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:62:13-55
+activity#com.github.tvbox.osc.ui.activity.PlayActivity
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:67:9-72:94
+	android:screenOrientation
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:70:13-56
+	android:supportsPictureInPicture
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:71:13-52
+	android:configChanges
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:72:13-91
+	android:theme
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:69:13-56
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:68:13-53
+activity#com.github.tvbox.osc.ui.activity.PushActivity
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:73:9-75:59
+	android:screenOrientation
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:74:13-53
+activity#com.github.tvbox.osc.ui.activity.SearchActivity
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:76:9-79:59
+	android:screenOrientation
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:79:13-56
+	android:windowSoftInputMode
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:78:13-54
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:77:13-55
+activity#com.github.tvbox.osc.ui.activity.FastSearchActivity
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:80:9-83:59
+	android:screenOrientation
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:83:13-56
+	android:windowSoftInputMode
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:82:13-54
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:81:13-59
+activity#com.github.tvbox.osc.ui.activity.DriveActivity
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:84:9-86:59
+	android:screenOrientation
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:86:13-56
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:85:13-54
+activity#com.github.tvbox.osc.ui.activity.SettingActivity
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:87:9-89:59
+	android:screenOrientation
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:89:13-56
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:88:13-56
+activity#com.github.tvbox.osc.ui.activity.HistoryActivity
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:90:9-92:59
+	android:screenOrientation
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:92:13-56
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:91:13-56
+activity#com.github.tvbox.osc.ui.activity.CollectActivity
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:93:9-95:59
+	android:screenOrientation
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:95:13-56
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:94:13-56
+receiver#com.github.tvbox.osc.receiver.SearchReceiver
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:97:9-101:20
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:97:19-58
+intent-filter#action:name:android.content.movie.search.Action
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:98:13-100:29
+action#android.content.movie.search.Action
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:99:17-78
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:99:25-75
+receiver#com.github.tvbox.osc.receiver.CustomWebReceiver
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:102:9-106:20
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:102:19-61
+intent-filter#action:name:android.content.movie.custom.web.Action
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:103:13-105:29
+action#android.content.movie.custom.web.Action
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:104:17-82
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:104:25-79
+meta-data#design_width_in_dp
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:118:9-120:36
+	android:value
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:120:13-33
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:119:13-46
+meta-data#design_height_in_dp
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:121:9-123:35
+	android:value
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:123:13-32
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:122:13-47
+meta-data#xwalk_enable_download_mode
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:125:9-127:38
+	android:value
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:127:13-35
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:126:13-54
+meta-data#xwalk_verify
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:128:9-130:39
+	android:value
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:130:13-36
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:129:13-40
+uses-sdk
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.2.2] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e059bf85ae66f971ea98ab7bd0fadb14\databinding-adapters-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.2.2] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e059bf85ae66f971ea98ab7bd0fadb14\databinding-adapters-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.2] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\434b6b90b343ac7f25b834c3fa588ab8\databinding-runtime-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.2] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\434b6b90b343ac7f25b834c3fa588ab8\databinding-runtime-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\80d6913b98696ed806710f398b7030d6\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\80d6913b98696ed806710f398b7030d6\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.github.thegrizzlylabs:sardine-android:0.5] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5fbee320cd8c7181da19e2470b487ceb\jetified-sardine-android-0.5\AndroidManifest.xml:5:5-44
+MERGED from [com.github.thegrizzlylabs:sardine-android:0.5] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5fbee320cd8c7181da19e2470b487ceb\jetified-sardine-android-0.5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d0a8dc46b3cfd68bdf724259d84b99e8\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d0a8dc46b3cfd68bdf724259d84b99e8\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.kingja.loadsir:loadsir:1.3.8] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\281f86556b7a08344edd864cac0928d9\jetified-loadsir-1.3.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kingja.loadsir:loadsir:1.3.8] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\281f86556b7a08344edd864cac0928d9\jetified-loadsir-1.3.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\3c289c4feed255a38ba34624249d1bf3\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\3c289c4feed255a38ba34624249d1bf3\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e55c63b66e0d0950e514e96e1cb9fbcb\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e55c63b66e0d0950e514e96e1cb9fbcb\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\af00afab4460804a94749d445c5e3375\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\af00afab4460804a94749d445c5e3375\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.owen:tv-recyclerview:3.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c20269ee5a4f78911fed0601e525a2d2\jetified-tv-recyclerview-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.owen:tv-recyclerview:3.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c20269ee5a4f78911fed0601e525a2d2\jetified-tv-recyclerview-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e7ce37e8be424eead96edfcc2bcc2422\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e7ce37e8be424eead96edfcc2bcc2422\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.alibaba.android:vlayout:1.2.37] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1ab0408195b83d83d74b102128562385\jetified-vlayout-1.2.37\AndroidManifest.xml:31:5-33:41
+MERGED from [com.alibaba.android:vlayout:1.2.37] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1ab0408195b83d83d74b102128562385\jetified-vlayout-1.2.37\AndroidManifest.xml:31:5-33:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\2d2adde94e2b6fb142db6c786a9b3188\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\2d2adde94e2b6fb142db6c786a9b3188\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:jieba_android] F:\androidwork\tvbox\drpybox\jieba_android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:jieba_android] F:\androidwork\tvbox\drpybox\jieba_android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5f053a25710d769ba6e2ae5c2f709070\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5f053a25710d769ba6e2ae5c2f709070\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1075920d7c53e5aaf65a01d9154bb791\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1075920d7c53e5aaf65a01d9154bb791\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4592c34b05a4b504d59071433a0c4116\jetified-okgo-3.0.4\AndroidManifest.xml:22:5-24:41
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4592c34b05a4b504d59071433a0c4116\jetified-okgo-3.0.4\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.45-androidx] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\8f61e6fb3a6730b2569f9760330fea34\jetified-BaseRecyclerViewAdapterHelper-2.9.45-androidx\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.45-androidx] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\8f61e6fb3a6730b2569f9760330fea34\jetified-BaseRecyclerViewAdapterHelper-2.9.45-androidx\AndroidManifest.xml:7:5-9:41
+MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\250fe7bd6180ed56888d2b54bc4eeb4e\jetified-hawk-2.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\250fe7bd6180ed56888d2b54bc4eeb4e\jetified-hawk-2.0.1\AndroidManifest.xml:6:5-44
+MERGED from [me.jessyan:autosize:1.2.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f367710926cd8cbaddf9de9c15426e56\jetified-autosize-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [me.jessyan:autosize:1.2.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f367710926cd8cbaddf9de9c15426e56\jetified-autosize-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\3c2faf50c7f30b029776288813994631\jetified-exoplayer-dash-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\3c2faf50c7f30b029776288813994631\jetified-exoplayer-dash-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\efe2ccfd5caf19e577b2c58a577b33be\jetified-exoplayer-hls-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\efe2ccfd5caf19e577b2c58a577b33be\jetified-exoplayer-hls-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\72f29d42dd8930456c464b5931bcaa4c\jetified-exoplayer-rtsp-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\72f29d42dd8930456c464b5931bcaa4c\jetified-exoplayer-rtsp-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f1eb9ebaecddea7e633188673f33f2d8\jetified-exoplayer-core-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f1eb9ebaecddea7e633188673f33f2d8\jetified-exoplayer-core-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d8324f791fc5a313abb010f40888c1e7\jetified-extension-rtmp-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d8324f791fc5a313abb010f40888c1e7\jetified-extension-rtmp-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d42f73bf74fdb2b85d20eaa5f5db84ed\jetified-viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d42f73bf74fdb2b85d20eaa5f5db84ed\jetified-viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.github.getActivity:XXPermissions:13.6] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\094fa0269c3dc67d507fbbd3f23791e6\jetified-XXPermissions-13.6\AndroidManifest.xml:7:5-44
+MERGED from [com.github.getActivity:XXPermissions:13.6] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\094fa0269c3dc67d507fbbd3f23791e6\jetified-XXPermissions-13.6\AndroidManifest.xml:7:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\715557cd8cb6113c931b79e7e48322b2\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\715557cd8cb6113c931b79e7e48322b2\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\076f7fe7972bee1c80e5553b4534b609\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\076f7fe7972bee1c80e5553b4534b609\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\117fb37b347a5fcfa9affb44529a8bfa\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\117fb37b347a5fcfa9affb44529a8bfa\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\74ced276f2bf6b9a22d9f2dbf0d57f98\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\74ced276f2bf6b9a22d9f2dbf0d57f98\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d54c3f7008a81c33daeda1756933644a\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\d54c3f7008a81c33daeda1756933644a\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\04065bff3e9558946c8e051bf44f2c3b\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\04065bff3e9558946c8e051bf44f2c3b\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\82e453dfc915ed9cc9469d988999ccf8\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\82e453dfc915ed9cc9469d988999ccf8\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\7617780e5b04c2966432bc4df5abb64f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\7617780e5b04c2966432bc4df5abb64f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\42473f6cdf8267137d4b790ce39bb35c\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\42473f6cdf8267137d4b790ce39bb35c\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\46dbb4d8a07d49327e88e8898de15733\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\46dbb4d8a07d49327e88e8898de15733\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\a2803ec59c039dd9e62c6f25c2394b7b\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\a2803ec59c039dd9e62c6f25c2394b7b\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\25e32adb7dc047f0c4813284aa24ed59\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\25e32adb7dc047f0c4813284aa24ed59\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ef89da131e88d7a9b5b72a350e241e4b\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ef89da131e88d7a9b5b72a350e241e4b\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\a1a15dccaddb9a58fa02966cf498683c\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\a1a15dccaddb9a58fa02966cf498683c\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\3b06625dcaa18a9c161f917bf531f304\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\3b06625dcaa18a9c161f917bf531f304\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\24a0abc4bf2d1f8cad0b2f16489f0acd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\24a0abc4bf2d1f8cad0b2f16489f0acd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e8e1b724d4e0b0243fa5b5ae782522f0\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e8e1b724d4e0b0243fa5b5ae782522f0\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b0cb78a80c409c5e4d34fcb1ee055036\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b0cb78a80c409c5e4d34fcb1ee055036\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b271de6c47d5bdddf038de2d19f7b229\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b271de6c47d5bdddf038de2d19f7b229\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c802b6fc861cd529489fd177b52c8ab6\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c802b6fc861cd529489fd177b52c8ab6\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\60b04dd3d10825eb7a9d8579475f320d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\60b04dd3d10825eb7a9d8579475f320d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c69f1f806681c3e287f5f59dc6eaf646\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c69f1f806681c3e287f5f59dc6eaf646\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ffa49728b8d12b536247f91aa1b406aa\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ffa49728b8d12b536247f91aa1b406aa\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\06644438a253a9cc6a5bc52cc46f56c1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\06644438a253a9cc6a5bc52cc46f56c1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\7d4778a4a5227f57a8cb6ac9e616dd7b\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\7d4778a4a5227f57a8cb6ac9e616dd7b\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b451a7ca1025d72b1e0d1a7804ef290d\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b451a7ca1025d72b1e0d1a7804ef290d\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\6c75477f1115cd6d63a24b11d5ad4b78\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\6c75477f1115cd6d63a24b11d5ad4b78\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ead26ca8a3f479c25c33822349135643\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ead26ca8a3f479c25c33822349135643\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4ac94067c32b5741fcd0bc1be02adb9d\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4ac94067c32b5741fcd0bc1be02adb9d\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\62a74d554089b691e7beb67bb3b37a2b\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\62a74d554089b691e7beb67bb3b37a2b\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\7c4a4043b45ec471686a108c9f3d75d2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\7c4a4043b45ec471686a108c9f3d75d2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\658fad122711c6b85d8b80b0e4a4138c\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\658fad122711c6b85d8b80b0e4a4138c\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\faed489e262b4646a0aa258633e7a9d8\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\faed489e262b4646a0aa258633e7a9d8\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b8051f78c7385452b7ab3f51d218a617\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\b8051f78c7385452b7ab3f51d218a617\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\069eb5a361b18e1773fbf1f9d4663425\jetified-exoplayer-datasource-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\069eb5a361b18e1773fbf1f9d4663425\jetified-exoplayer-datasource-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\137b31d3e949aba47b3077d20903f7f1\jetified-exoplayer-extractor-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\137b31d3e949aba47b3077d20903f7f1\jetified-exoplayer-extractor-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c136bfb3ceca5c6638a44225596e8da2\jetified-exoplayer-decoder-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c136bfb3ceca5c6638a44225596e8da2\jetified-exoplayer-decoder-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e58002c4d2065d671600683921adb3ee\jetified-exoplayer-database-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\e58002c4d2065d671600683921adb3ee\jetified-exoplayer-database-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\12995ad70246e14ae228b4390f38b6e1\jetified-exoplayer-common-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.16.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\12995ad70246e14ae228b4390f38b6e1\jetified-exoplayer-common-2.16.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c3ecd4cc36a34c872cb2b3e23e7e08ca\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\c3ecd4cc36a34c872cb2b3e23e7e08ca\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f62077f382cf98f32fe75c7f9a5ab0ba\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f62077f382cf98f32fe75c7f9a5ab0ba\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f3e53978ee6e7daef8d233ad93167ca7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f3e53978ee6e7daef8d233ad93167ca7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\da98fd940fef9b1bfe4fbb87426ef3e6\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\da98fd940fef9b1bfe4fbb87426ef3e6\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4394f9bccaf97aa8e3d53f704aee63b6\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4394f9bccaf97aa8e3d53f704aee63b6\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\caa0f54e7ebb99e624f625b78c0b9c3e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\caa0f54e7ebb99e624f625b78c0b9c3e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [xyz.doikki.android.dkplayer:dkplayer-ui:3.3.5] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\86857f462f86436c714097874997d2d9\jetified-dkplayer-ui-3.3.5\AndroidManifest.xml:5:5-7:41
+MERGED from [xyz.doikki.android.dkplayer:dkplayer-ui:3.3.5] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\86857f462f86436c714097874997d2d9\jetified-dkplayer-ui-3.3.5\AndroidManifest.xml:5:5-7:41
+MERGED from [:pyramid] F:\androidwork\tvbox\drpybox\pyramid\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:pyramid] F:\androidwork\tvbox\drpybox\pyramid\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [org.xwalk:xwalk_shared_library:23.53.589.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\31167bab9e251b184d92ef9d7a4453fe\jetified-xwalk_shared_library-23.53.589.4\AndroidManifest.xml:6:5-8:41
+MERGED from [org.xwalk:xwalk_shared_library:23.53.589.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\31167bab9e251b184d92ef9d7a4453fe\jetified-xwalk_shared_library-23.53.589.4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.hedzr:android-file-chooser:v1.2.0-final] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ea96c1f9678a518226315f13e60f001c\jetified-android-file-chooser-v1.2.0-final\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.hedzr:android-file-chooser:v1.2.0-final] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ea96c1f9678a518226315f13e60f001c\jetified-android-file-chooser-v1.2.0-final\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\89b785480e630cf29d8bfa5d3c62d054\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\89b785480e630cf29d8bfa5d3c62d054\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\9dbeeea67c6acc483577b9a13bd92de9\jetified-conceal-1.1.3\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\9dbeeea67c6acc483577b9a13bd92de9\jetified-conceal-1.1.3\AndroidManifest.xml:12:5-14:41
+MERGED from [io.antmedia:rtmp-client:3.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\a61fb3c9fc61f9ac742c758841b6deb7\jetified-rtmp-client-3.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.antmedia:rtmp-client:3.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\a61fb3c9fc61f9ac742c758841b6deb7\jetified-rtmp-client-3.2.0\AndroidManifest.xml:5:5-7:41
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+		INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+		INJECTED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:113:13-115:54
+	android:resource
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:115:17-51
+	android:name
+		ADDED from F:\androidwork\tvbox\drpybox\app\src\main\AndroidManifest.xml:114:17-67
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5f053a25710d769ba6e2ae5c2f709070\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5f053a25710d769ba6e2ae5c2f709070\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5f053a25710d769ba6e2ae5c2f709070\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\5f053a25710d769ba6e2ae5c2f709070\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1075920d7c53e5aaf65a01d9154bb791\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1075920d7c53e5aaf65a01d9154bb791\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1075920d7c53e5aaf65a01d9154bb791\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\1075920d7c53e5aaf65a01d9154bb791\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [com.lzy.net:okgo:3.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4592c34b05a4b504d59071433a0c4116\jetified-okgo-3.0.4\AndroidManifest.xml:29:5-84
+	android:name
+		ADDED from [com.lzy.net:okgo:3.0.4] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\4592c34b05a4b504d59071433a0c4116\jetified-okgo-3.0.4\AndroidManifest.xml:29:22-81
+provider#me.jessyan.autosize.InitProvider
+ADDED from [me.jessyan:autosize:1.2.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f367710926cd8cbaddf9de9c15426e56\jetified-autosize-1.2.1\AndroidManifest.xml:12:9-16:43
+	android:authorities
+		ADDED from [me.jessyan:autosize:1.2.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f367710926cd8cbaddf9de9c15426e56\jetified-autosize-1.2.1\AndroidManifest.xml:14:13-74
+	android:multiprocess
+		ADDED from [me.jessyan:autosize:1.2.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f367710926cd8cbaddf9de9c15426e56\jetified-autosize-1.2.1\AndroidManifest.xml:16:13-40
+	android:exported
+		ADDED from [me.jessyan:autosize:1.2.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f367710926cd8cbaddf9de9c15426e56\jetified-autosize-1.2.1\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [me.jessyan:autosize:1.2.1] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\f367710926cd8cbaddf9de9c15426e56\jetified-autosize-1.2.1\AndroidManifest.xml:13:13-60
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\74ced276f2bf6b9a22d9f2dbf0d57f98\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\74ced276f2bf6b9a22d9f2dbf0d57f98\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\74ced276f2bf6b9a22d9f2dbf0d57f98\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\74ced276f2bf6b9a22d9f2dbf0d57f98\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\74ced276f2bf6b9a22d9f2dbf0d57f98\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+activity#com.obsez.android.lib.filechooser.permissions.PermissionActivity
+ADDED from [com.github.hedzr:android-file-chooser:v1.2.0-final] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ea96c1f9678a518226315f13e60f001c\jetified-android-file-chooser-v1.2.0-final\AndroidManifest.xml:12:9-15:56
+	android:label
+		ADDED from [com.github.hedzr:android-file-chooser:v1.2.0-final] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ea96c1f9678a518226315f13e60f001c\jetified-android-file-chooser-v1.2.0-final\AndroidManifest.xml:14:13-29
+	android:theme
+		ADDED from [com.github.hedzr:android-file-chooser:v1.2.0-final] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ea96c1f9678a518226315f13e60f001c\jetified-android-file-chooser-v1.2.0-final\AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [com.github.hedzr:android-file-chooser:v1.2.0-final] C:\Users\dashen\.gradle\caches\transforms-2\files-2.1\ea96c1f9678a518226315f13e60f001c\jetified-android-file-chooser-v1.2.0-final\AndroidManifest.xml:13:13-92

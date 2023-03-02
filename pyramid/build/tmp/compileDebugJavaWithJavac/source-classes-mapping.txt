@@ -1,0 +1,2 @@
+com/undcover/freedom/pyramid/BuildConfig.java
+ com.undcover.freedom.pyramid.BuildConfig

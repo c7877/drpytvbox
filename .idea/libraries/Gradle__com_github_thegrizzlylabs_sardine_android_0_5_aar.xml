@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.thegrizzlylabs:sardine-android:0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fbee320cd8c7181da19e2470b487ceb/jetified-sardine-android-0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fbee320cd8c7181da19e2470b487ceb/jetified-sardine-android-0.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.thegrizzlylabs/sardine-android/0.5/1b2aea4e1cb792c95f1ffd656818038dadeb3da5/sardine-android-0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
