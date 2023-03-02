@@ -30,14 +30,11 @@ App default settings can be set here :
 通过git命令清除，步骤如下：
 打开idea系列产品的terminal
 
-3.1 $ ls # 查看有哪些文件夹 
-3.2 $ cd # 切换到目标目录 
-
-3.4 $ git rm -r --cached build # 删除build文件夹（删除的是缓存中的build）
-
-3.5 $ git commit -m '删除编译目录' # 提交,添加操作说明（将缓存中的变动提交到本地仓库.idea）
-
-3.6 $ git push -u origin master # 将本次更改更新到github项目上去（将本地仓库的变动同步到远程仓库）
+3.1 $ ls # 查看有哪些文件夹  
+3.2 $ cd # 切换到目标目录  
+3.3 $ git rm -r --cached build # 删除build文件夹（删除的是缓存中的build）  
+3.4 $ git commit -m '删除编译目录' # 提交,添加操作说明（将缓存中的变动提交到本地仓库.idea）  
+3.5 $ git push -u origin master # 将本次更改更新到github项目上去（将本地仓库的变动同步到远程仓库）  
 
 # 问题反馈
 
